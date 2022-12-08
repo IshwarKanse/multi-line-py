@@ -1,7 +1,6 @@
 import logging
 from time import sleep
 
-i = 0
 while True:
     num = "python"
     print("Hello, World")
